@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ahlan_Automation.iml" filepath="$PROJECT_DIR$/Ahlan_Automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bestbuy/com.bestbuy.iml" filepath="$PROJECT_DIR$/Bestbuy/com.bestbuy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Governmentjobs/com.governmentjobs.iml" filepath="$PROJECT_DIR$/Governmentjobs/com.governmentjobs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kayak/com.kayak.iml" filepath="$PROJECT_DIR$/Kayak/com.kayak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yahoo/com.yahoo.iml" filepath="$PROJECT_DIR$/Yahoo/com.yahoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Youtube/com.youtube.iml" filepath="$PROJECT_DIR$/Youtube/com.youtube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Manager/manager.iml" filepath="$PROJECT_DIR$/Manager/manager.iml" />
+    </modules>
+  </component>
+</project>

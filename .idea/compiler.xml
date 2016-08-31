@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="com.bestbuy" />
+        <module name="com.governmentjobs" />
+        <module name="com.kayak" />
+        <module name="com.yahoo" />
+        <module name="com.youtube" />
+        <module name="manager" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Ahlan_Automation" target="1.5" />
+      <module name="Bestbuy" target="1.5" />
+      <module name="com.bestbuy" target="1.5" />
+      <module name="com.governmentjobs" target="1.5" />
+      <module name="com.kayak" target="1.5" />
+      <module name="com.yahoo" target="1.5" />
+      <module name="com.youtube" target="1.5" />
+      <module name="Governmentjobs" target="1.5" />
+      <module name="Kayak" target="1.5" />
+      <module name="manager" target="1.5" />
+      <module name="Manager" target="1.5" />
+      <module name="Yahoo" target="1.5" />
+      <module name="Youtube" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

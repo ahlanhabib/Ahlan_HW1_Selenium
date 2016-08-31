@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Yahoo E-Commerce" parallel="tests">
+
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="userName" value="Ahlan"/>
+    <parameter name="key" value=""/>
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="browserVersion" value="48.0.2"/>
+    <parameter name="url" value="http://www.yahoo.com"/>
+
+    <test name = "Yahoo Find">
+        <classes>
+            <class name="yahoo.click.Click"/>
+        </classes>
+    </test>
+
+</suite>
